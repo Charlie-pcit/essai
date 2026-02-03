@@ -1,0 +1,41 @@
+{
+  "max_items": 5,
+  "min_items": 4,
+  "lookback_hours": 36,
+  "keywords": [
+    "intelligence artificielle",
+    "IA",
+    "machine learning",
+    "deep learning",
+    "automatisation",
+    "robotique",
+    "RPA",
+    "agent",
+    "LLM",
+    "gen AI",
+    "GPT",
+    "workflow"
+  ],
+  "feeds": [
+    {
+      "name": "MIT Technology Review - AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss/"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/feed/"
+    },
+    {
+      "name": "Automation Anywhere Blog",
+      "url": "https://www.automationanywhere.com/company/blog/rss.xml"
+    }
+  ]
+}
